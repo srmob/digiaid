@@ -1,6 +1,6 @@
 {
   "name": "digiaid",
-  "app_id": "",
+  "app_id": "c10f0bff",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
